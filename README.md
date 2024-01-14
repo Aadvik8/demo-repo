@@ -1,5 +1,3 @@
-
-[pygame-2.5.2.tar.gz](https://github.com/Aadvik8/demo-repo/files/13930678/pygame-2.5.2.tar.gz)
 import os
 import random
 import math
